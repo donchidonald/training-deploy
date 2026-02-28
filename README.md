@@ -1,2 +1,2 @@
-Bonjour, je m'appelle Donald Donchi et j'aime manger.
+Bonjour, je m'appelle Donald Donchi.
 Ceci est mon premier déploiement DevOps.
